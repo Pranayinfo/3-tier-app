@@ -1,0 +1,14 @@
+{
+    "name": "three-tier-app",
+    "version": "1.0.0",
+    "description": "Three Tier Application",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.17.2",
+      "pg": "^8.7.1"
+    }
+  }
+  
